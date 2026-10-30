@@ -30,7 +30,7 @@ Detected license plates are cropped and saved as evidence. The system also gener
 | Evidence storage | Implemented |
 | Event JSON generation | Implemented |
 | License plate OCR | Not implemented |
-| Face detection | Not implemented |
+| Face detection | implemented |
 | Database integration | Not implemented |
 | Web UI / Dashboard | Not implemented |
 
@@ -125,17 +125,8 @@ Generated evidence includes:
 - Cropped license plate images
 - `event.json` containing event and detection information
 
-## 8. Current Limitations
 
-The current implementation focuses on object detection, license plate detection, and evidence generation.
 
-The following capabilities are not currently implemented:
-
-- Optical Character Recognition (OCR) for reading license plate numbers.
-- Face detection.
-- Database integration.
-- Web-based monitoring dashboard.
-
-## 9. Repository
+## 8. Repository
 
 **GitHub:** https://github.com/codexprashantpawar/AI-Gatekeeper
