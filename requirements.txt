@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers>=4.40
+huggingface_hub
+timm
+opencv-python
+numpy
+Pillow
+requests
+python-dotenv
+ultralytics
+pytest
+onnxruntime
+# fast-plate-ocr: pip install --no-deps (its opencv-python-headless breaks cv2.imshow)

@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Secret environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# Generated output
+output/
+
+# AI model weights
+*.pt
+*.pth
+
+# Temporary test images
+scene.jpg
+snap_new.jpg
