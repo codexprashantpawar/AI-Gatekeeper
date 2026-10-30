@@ -22,3 +22,5 @@ output/
 # Temporary test images
 scene.jpg
 snap_new.jpg
+
+*.bak
